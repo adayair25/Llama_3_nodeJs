@@ -17,7 +17,7 @@
 
 # Ignore log files
 *.log
-*.env
+.env
 
 # Ignore temporary files
 *.tmp
