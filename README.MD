@@ -8,7 +8,7 @@ To install the necessary dependencies, run the following command:
 `npm i replicate`
 
 # Usage
-To run the project in development mode, use the following command:
+To run the project in development mode, use the following command: `node index.js`
 
 Environment Variables
 The project uses the following environment variables:
