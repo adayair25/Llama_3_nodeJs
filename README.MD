@@ -5,6 +5,8 @@ This project uses the Replicate library to interact with AI models. It includes 
 # Installation
 To install the necessary dependencies, run the following command:
 
+`npm i replicate`
+
 # Usage
 To run the project in development mode, use the following command:
 
