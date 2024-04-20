@@ -17,6 +17,7 @@
 
 # Ignore log files
 *.log
+*.nvm
 
 # Ignore temporary files
 *.tmp
